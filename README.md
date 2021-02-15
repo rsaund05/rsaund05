@@ -1,0 +1,4 @@
+- 🌝 Hi, I’m Robert Saunders @rsaund05
+- 🤔 I’m interested in backend development, specifically NodeJS and ExpressJS
+- 🌱 I’m currently learning everything Javascript/webdev! I was never offered a web developemnt course in Unversity, so I need to keep up with the kids nowadays!
+- 📫 You can reach me at rsaund05@icloud.com anytime!
